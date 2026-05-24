@@ -12,8 +12,6 @@
 할루시네이션과 보안사고 가능성을 줄이는 것을 목표로 합니다.
 </p>
 
-<br />
-
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/15a74a67-6e72-43cc-8f39-9007d6925faa" />
 
 <br />
